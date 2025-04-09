@@ -1,7 +1,8 @@
 # Summary
 
-[Introduction](./README.md)
+[Table of Contents](./TOC.md)
 
-- [What is mdbook](./what.md)
-- [How to use mdbook](./how.md)
-- [Who uses mdbook](./who.md)
+# Prompt Engineering Handbook
+
+- [Part 1](./part_1.md)
+    - [Chapter 1](./chapter_1.md)
